@@ -1,2 +1,2 @@
 # GAN01
-GAN for stat430
+This is a logo generator using GAN
